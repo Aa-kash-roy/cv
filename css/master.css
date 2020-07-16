@@ -79,6 +79,10 @@ a:hover{
     padding-top: 50px ;
     padding-bottom: 30px;
 }
+.contact-message{
+    width:50%;
+    margin:10px auto;
+}
 .pro
 {
     text-decoration: underline;
