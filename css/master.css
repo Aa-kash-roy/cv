@@ -1,0 +1,147 @@
+body{
+    color: #66BFBF;
+    text-align: center;
+    margin-top: 20px;
+    font-family: "Merriweather",serif;
+
+}
+div{
+    /* background-color: #E4F9f5; */
+}
+
+h1{
+    color: #66BFBF;
+    font-size: 562%;
+    /* You can use em and px to give size to text..! */
+    margin: 50 auto 0 auto;
+    /* line-height: 2; */
+    font-family: "Sacramento",serif;
+    /* width: 10%; */
+}
+h2{
+    color: #66BFBF;
+    font-size: 2.5rem;
+    font-weight: normal;
+}
+h3{
+    color: #11999E;
+}
+p{
+    color:black;
+}
+.top-container{
+    background-color: #E4F9f5;
+    color: #40514E;
+    /* background-color: yellow; */
+    position: relative;
+    padding-top: 100px;
+    /* width: 100px; */
+    /* height:100px; */
+}
+.middle-container{
+    /* position: relative; */
+    /* border-bottom: dotted; */
+    padding-top:100px;
+}
+.contact-me
+{
+    line-height: 2;
+}
+.btn
+{
+    background-color: #66BFBF;
+    width:175px;
+    display: inline-block;
+    padding: 20px;
+    color: white;
+    border-radius: 8px;
+    margin-bottom: 30px;
+}
+a{
+    color: white;
+    margin:10px;
+    text-decoration: none;
+}
+
+a:hover{
+    color: #EAF6F6;
+}
+
+.horizontal-line{
+    width: 5%;
+    border-top: 8px dotted grey;
+    margin: 50px auto;
+
+}
+.bottom-container{
+    background-color: #66BFBF;
+    padding-top: 50px ;
+    padding-bottom: 30px;
+}
+.pro
+{
+    text-decoration: underline;
+}
+.intro{
+    width:40%;
+    margin:0 auto;
+}
+.top-cloud
+{
+    position:absolute;
+    right: 300px;
+    top:40px;
+
+}
+.bottom-cloud{
+    position: absolute;
+    left: 250px;
+    bottom: 300px;
+}
+.footer-link{
+    color:#11999E;
+    padding: 20px;
+
+}
+/* .skills{
+    position:relative;
+} */
+.copyright{
+    color: #EAF6F6;
+    font-size: 0.75rem;
+    padding: 20px 0;
+}
+.skill-row{
+    width: 50%;
+    margin:100px auto;
+    /* position:absolute; */
+    text-align: left;
+    line-height: 2;
+
+}
+.profile-pic{
+    border-radius: 50%;
+    height:200px;
+    width:200px;
+}
+.cp
+{
+    border-radius: 50%;
+    height:200px;
+    width:200px;
+    float: left;
+    margin-right: 30px;
+    /* position: absolute;
+    left:300px; */
+}
+.webdev{
+    /* border-radius: 50%; */
+    height:200px;
+    width:200px;
+    float: right;
+    margin-left: 30px;
+}
+/* .cp-text{
+    position: absolute;
+    left: 600px;
+} */
